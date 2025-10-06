@@ -1,2 +1,3 @@
-# internetofcommunities-tm.com
+# Internet of Communities
+
 Internet of Communities™
